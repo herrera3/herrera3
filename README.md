@@ -4,7 +4,7 @@ I’m currently learning coding with the languages Java, Python and Javascript. 
 
 Here you can see some of my firsts codes!
 
-- 📫 You can reach me in my linkedIn : https://www.linkedin.com/in/eduarda-herrera-949402235/ or in my email: eduardaherrerasantos@gmail.com
+- 📫 You can reach me in my linkedIn : https://www.linkedin.com/in/maria-eduarda-herrera-5357b4220/ or in my email: eduardaherrerasantos@gmail.com
 
 - 👋 Olá, sou @herrera3, mais conhecida como Eduarda!
 - 👀 Estou interessada em aprender desenvolvimento front-end, criando sites e aplicativos usando linguagens web como HTML, CSS e JavaScript!
@@ -12,7 +12,7 @@ Atualmente estou aprendendo codificação com as linguagens Java, Python e Javas
 
 Aqui você pode ver alguns dos meus primeiros códigos!
 
-- 📫 Você pode me encontrar no meu linkedIn: https://www.linkedin.com/in/eduarda-herrera-949402235/ ou no meu email: eduardaherrerasantos@gmail.com
+- 📫 Você pode me encontrar no meu linkedIn: https://www.linkedin.com/in/maria-eduarda-herrera-5357b4220/ ou no meu email: eduardaherrerasantos@gmail.com
 
 <!---
 herrera3/herrera3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

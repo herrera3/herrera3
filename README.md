@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @herrera3, mostly knowm as Eduarda! 
+- 👋 Hi, I’m @herrera3, mostly known as Eduarda! 
 - 👀 I’m interested in learning front-end development, creating websites and applications using web languages such as HTML, CSS, and JavaScript!
 I’m currently learning coding with the languages Java, Python and Javascript. I also programm chatbots and AI, using IBM Cloud's Watson Assistant and Node.js, and data modeling with Oracle SQL.
 

@@ -25,4 +25,4 @@ Muito obrigado(a) por visitar meu perfil no GitHub! Fique à vontade para explor
 
 Vamos juntos construir um futuro inovador e tecnológico! 🚀
 
-- 📫 Me adicione no linkedIn : https://www.linkedin.com/in/maria-eduarda-herrera-5357b4220/ ou por email: eduardaherrerasantos@gmail.com
+📫 Me adicione no linkedIn : https://www.linkedin.com/in/maria-eduarda-herrera-5357b4220/ ou por email: eduardaherrerasantos@gmail.com
